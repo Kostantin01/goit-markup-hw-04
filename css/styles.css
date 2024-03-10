@@ -148,18 +148,15 @@ h1,h2,h3,h4,p,ul{
 .business {
     background-color: #2e2f42;
     padding: 188px 0;
-
-}
-
-
-.business-container {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
-    max-width: 1440px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    position: relative;
+        max-width: 1440px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+
 }
+
 
 .business-background {
     width: 100%;
