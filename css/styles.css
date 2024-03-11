@@ -251,6 +251,7 @@ h1,h2,h3,h4,p,ul{
     background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
+    border: 1px solid #8e8f99;
 }
 
 .list-heading {
