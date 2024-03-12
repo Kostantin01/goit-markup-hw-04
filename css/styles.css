@@ -334,7 +334,12 @@ h1,h2,h3,h4,p,ul{
     letter-spacing: 0.02em;
 }
 
-
+.social-media-item{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    
+}
 
 
 
