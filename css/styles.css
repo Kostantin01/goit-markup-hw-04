@@ -329,9 +329,9 @@ h1,h2,h3,h4,p,ul{
     background-color: #404bbf;
 }
 
-.team-member-icons[
-   fill: #f4f4fd
-]
+.team-member-icons{
+    
+}
 
 
 .employee-info {
