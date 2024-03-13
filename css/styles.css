@@ -322,6 +322,7 @@ h1,h2,h3,h4,p,ul{
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .team-member-list-icons:hover,
