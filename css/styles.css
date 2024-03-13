@@ -324,6 +324,14 @@ h1,h2,h3,h4,p,ul{
     justify-content: center;
 }
 
+.team-member-list-icons:hover,
+.team-member-list-icons:focus {
+    background-color: #404bbf;
+}
+
+.team-member-icons[
+   fill: #f4f4fd
+]
 
 
 .employee-info {
