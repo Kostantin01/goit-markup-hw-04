@@ -440,10 +440,15 @@ h1,h2,h3,h4,p,ul{
     padding: 100px 0;
 }
 
-.footer-content container {
+
+.social-container{
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
+    
 }
+
+
 
 .footer-logo {
     font-family: "Raleway", sans-serif;
