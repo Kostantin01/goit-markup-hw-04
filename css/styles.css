@@ -444,7 +444,7 @@ h1,h2,h3,h4,p,ul{
 }
 
 
-.portfolio-list-item:hover.overlay,{
+.portfolio-list-item:hover.overlay{
     transform: translateY(0%);
 }
     
