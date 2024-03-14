@@ -510,11 +510,17 @@ h1,h2,h3,h4,p,ul{
 
 
 
-.footer-content .container{
+.footer-content-container{
     display: flex;
     align-items: baseline;
     margin-right: 120px;
 }
+
+
+.social-container{
+
+}
+
 
 .social-paragraph {
     font-weight: 500;
