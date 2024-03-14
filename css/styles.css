@@ -510,36 +510,16 @@ h1,h2,h3,h4,p,ul{
 
 
 
-.footer-content container{
+.footer-content {
     display: flex;
     align-items: baseline;
     margin-right: 120px;
 }
 
 
-.social container{
-
-}
 
 
-.social-paragraph{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
-    margin-bottom: 16px;
-}
 
-.social-media-item{
-    display: flex;
-    gap: 16px;
-}
-
-.list-icons{
-    width: 40px;
-    height: 40px;
-}
 
 .footer-logo {
     font-family: "Raleway", sans-serif;
