@@ -420,7 +420,7 @@ h1,h2,h3,h4,p,ul{
 }
 
 
-.team-list-img-wrapper container {
+.team-list-img-wrapper-container {
     position: relative;
     overflow: hidden;
 }
