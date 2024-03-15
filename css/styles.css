@@ -498,6 +498,9 @@ h1,h2,h3,h4,p,ul{
 
 
 
+
+/* FOOTER */
+
 .footer{
     background-color: #2e2f42;
     padding: 100px 0;
@@ -516,18 +519,14 @@ h1,h2,h3,h4,p,ul{
 
 
 
-/* FOOTER */
-
-
-
 .footer-content-container{
     display: flex;
     align-items: baseline;
-    margin-right: 120px;
 }
 
 
 .social{
+    margin-right: 120px;
 
 }
 
