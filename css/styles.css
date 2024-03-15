@@ -517,12 +517,13 @@ h1,h2,h3,h4,p,ul{
 
 
 
-
-
-.footer-content-container{
+.footer-social-container{
     display: flex;
-    align-items: baseline;
+        align-items: baseline;
+
 }
+
+
 
 
 .social{
