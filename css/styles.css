@@ -152,7 +152,7 @@ h1,h2,h3,h4,p,ul{
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-
+        margin: 0 auto;
 }
 
 
@@ -165,7 +165,7 @@ h1,h2,h3,h4,p,ul{
 
 
 .container {
-
+    
 }
 
 .business-heading {
@@ -353,6 +353,7 @@ h1,h2,h3,h4,p,ul{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+
 }
 
 .team-member-role {
@@ -360,15 +361,13 @@ h1,h2,h3,h4,p,ul{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
 }
 
 .social-media-list {
     display: flex;
     justify-content: center;
     gap: 24px;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-top: 32px;
 }
 
 .social-media-item {
@@ -399,7 +398,6 @@ h1,h2,h3,h4,p,ul{
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    padding: 0;
 }
 
 
@@ -501,7 +499,7 @@ h1,h2,h3,h4,p,ul{
 
 
 
-.footer-social-container{
+.container-footer-social-container{
     display: flex;
     align-items: baseline;
 }
